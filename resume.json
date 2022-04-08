@@ -1,0 +1,59 @@
+{
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+		"hidden": false
+	},
+	"profile": {
+		"name": "王少杰",
+		"email": "enovo458@126.com",
+		"mobile": "18757184543",
+		"github": "https://github.com/big-tooth",
+        "gitee": "https://gitee.com/drophair",
+		"workExpYear": "",
+		"positionTitle": "数据可视化·前端工程师"
+	},
+	"educationList": [{
+		"edu_time": ["2019.09.01", "2023.06.30"],
+		"school": "浙江中医药大学滨江学院",
+		"major": "计算机科学与技术",
+		"academic_degree": "本科"
+	}],
+	"awardList": [{
+		"award_info": "英语 CET4"
+	}, {
+		"award_info": "天梯赛",
+		"award_time": "2021"
+	}, {
+		"award_info": "天梯赛",
+		"award_time": "2020"
+	}],
+	"workExpList": [],
+	"skillList": [{
+		"skill_name": "Java Web",
+		"skill_desc": "熟悉Java Web，有完整开发有关项目"
+	}],
+	"projectList": [{
+		"project_name": "银行存款服务编排系统",
+		"project_role": "后端开发主要负责人",
+		"project_time": "2021.12 - 2022.04",
+		"project_desc": "",
+		"project_content": "结合Redis数据和延时队列实现订单业务"
+	}],
+	"workList": [],
+	"aboutme": {
+		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区、openwrt维护者，熟悉Javafx桌面、Spring后端开发"
+	},
+	"theme": {
+		"color": "#2f5785",
+		"tagColor": "#8bc34a"
+	}
+}
