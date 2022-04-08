@@ -13,13 +13,13 @@
 		"hidden": false
 	},
 	"profile": {
-		"name": "王少杰",
+		"name": "王少杰 (服务端开发实习生)",
 		"email": "enovo458@126.com",
 		"mobile": "18757184543",
 		"github": "https://github.com/big-tooth",
         "gitee": "https://gitee.com/drophair",
 		"workExpYear": "",
-		"positionTitle": "服务端开发实习生"
+		"positionTitle": ""
 	},
 	"educationList": [{
 		"edu_time": ["2019.09.01", "2023.06.30"],
@@ -50,7 +50,7 @@
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区开发者openwrt开发者"
+		"aboutme_desc": "热爱技术、能够自我主动学习新技能，Archlinuxcn社区开发者、OpenWrt开发者"
 	},
 	"theme": {
 		"color": "#2f5785",
