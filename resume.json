@@ -19,7 +19,7 @@
 		"github": "https://github.com/big-tooth",
         "gitee": "https://gitee.com/drophair",
 		"workExpYear": "",
-		"positionTitle": "数据可视化·前端工程师"
+		"positionTitle": "服务端开发实习生"
 	},
 	"educationList": [{
 		"edu_time": ["2019.09.01", "2023.06.30"],
@@ -45,12 +45,12 @@
 		"project_name": "银行存款服务编排系统",
 		"project_role": "后端开发主要负责人",
 		"project_time": "2021.12 - 2022.04",
-		"project_desc": "",
+		"project_desc": "基于Servlet技术开发",
 		"project_content": "结合Redis数据和延时队列实现订单业务"
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区、openwrt维护者，熟悉Javafx桌面、Spring后端开发"
+		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区开发者openwrt开发者"
 	},
 	"theme": {
 		"color": "#2f5785",
