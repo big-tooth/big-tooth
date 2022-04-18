@@ -19,12 +19,12 @@
 		"github": "https://github.com/big-tooth",
         "gitee": "https://gitee.com/drophair",
 		"workExpYear": "",
-		"positionTitle": "数据可视化·前端工程师"
+		"positionTitle": "【暑期实习】服务端开发实习生"
 	},
 	"educationList": [{
 		"edu_time": ["2019.09.01", "2023.06.30"],
 		"school": "浙江中医药大学滨江学院",
-		"major": "计算机科学与技术",
+		"major": "计算机科学与技术专业",
 		"academic_degree": "本科"
 	}],
 	"awardList": [{
@@ -50,10 +50,17 @@
 		"project_time": "2021.12 - 2022.04",
 		"project_desc": "",
 		"project_content": "结合Redis数据和延时队列实现订单业务"
+	},
+	{
+		"project_name": "图床(前后端)",
+		"project_role": "前后端开发",
+		"project_time": "2021.2 - 2022.04",
+		"project_desc": "",
+		"project_content": "通过蘑菇街、Github、Bilibili的API接口实现白嫖图床"
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区、openwrt维护者，熟悉Javafx桌面、Spring后端开发"
+		"aboutme_desc": "拥抱技术、自我主动学习新技能，archlinuxcn社区维护者、openwrt luci插件开发者(luci-app-socatg)，熟悉Javafx桌面、Java Web和Spring后端开发"
 	},
 	"theme": {
 		"color": "#2f5785",
