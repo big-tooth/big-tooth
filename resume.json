@@ -13,13 +13,13 @@
 		"hidden": false
 	},
 	"profile": {
-		"name": "王少杰 (服务端开发实习生)",
+		"name": "王少杰",
 		"email": "enovo458@126.com",
 		"mobile": "18757184543",
 		"github": "https://github.com/big-tooth",
         "gitee": "https://gitee.com/drophair",
 		"workExpYear": "",
-		"positionTitle": ""
+		"positionTitle": "数据可视化·前端工程师"
 	},
 	"educationList": [{
 		"edu_time": ["2019.09.01", "2023.06.30"],
@@ -30,6 +30,9 @@
 	"awardList": [{
 		"award_info": "英语 CET4"
 	}, {
+		"award_info": "团体程序设计天梯赛",
+		"award_time": "2022"
+	},{
 		"award_info": "团体程序设计天梯赛",
 		"award_time": "2021"
 	}, {
@@ -43,14 +46,14 @@
 	}],
 	"projectList": [{
 		"project_name": "银行存款服务编排系统",
-		"project_role": "后端主要开发",
+		"project_role": "后端开发主要负责人",
 		"project_time": "2021.12 - 2022.04",
-		"project_desc": "基于Servlet技术开发",
-		"project_content": "结合Redis数据和延时队列实现订单业务，实现Token认证，以及大部分收发业务"
+		"project_desc": "",
+		"project_content": "结合Redis数据和延时队列实现订单业务"
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "热爱技术、能够自我主动学习新技能，Archlinuxcn社区开发者、OpenWrt插件开发者"
+		"aboutme_desc": "热爱技术、能够自我主动学习新技能，archlinuxcn社区、openwrt维护者，熟悉Javafx桌面、Spring后端开发"
 	},
 	"theme": {
 		"color": "#2f5785",
