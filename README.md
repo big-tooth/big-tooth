@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NULL, but i still a freeman now.
+- 🔭 I’m currently working on NULL, so i still a freeman now.
 - 🌱 I’m currently learning 《摸鱼学导论》.
 - 🤔 I’m looking for help with find nice offer.
