@@ -75,15 +75,15 @@
             "project_name": "银行存款服务编排系统",
             "project_role": "后端开发、测试",
             "project_time": "2021.12 - 2022.04",
-            "project_desc": "通过低代码的形式实现银行存款服务编排系统，中国大学生服务外包创新创业大赛 三等奖",
-            "project_content": "1. 项目从0到1的框架设计和开发 2.  3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+            "project_desc": "通过低代码的形式实现银行存款服务编排系统，获得中国大学生服务外包创新创业大赛 三等奖",
+            "project_content": "1. 用户权限管理 2. 充分利用Redis的缓存特性实现多种应用场景的功能，包括订单缓存、存款信息预加载"
         },
         {
             "project_name": "华东医药多仓协同开发项目",
             "project_role": "中台开发、测试",
             "project_time": "2021.10 - 至今",
             "project_desc": "对中西药订单中心完成普通销售、采购协同、跨组织销售业务，把繁杂的销售流程简化操作，提高整体运行效率",
-            "project_content": "1. 项目从0到1的框架设计和开发 2.  3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+            "project_content": "1. 项目从0到1的框架设计和开发 2. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
         },
         {
             "project_name": "华东医药渠道云开发项目",
@@ -95,7 +95,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n对Quartz定时任务框架有着充分认识，对xxl-job也有所了解"
+        "aboutme_desc": "活跃于Github\n沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n对Quartz定时任务框架有着充分认识，对xxl-job也有所了解"
     },
     "theme": {
         "color": "#2f5785",
