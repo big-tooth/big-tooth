@@ -9,7 +9,7 @@
         "aboutme": "自我介绍"
     },
     "avatar": {
-        "src": "https://raw.githubusercontent.com/big-tooth/big-tooth/main/head3.jpg",
+        "src": "https://raw.githubusercontent.com/big-tooth/big-tooth/main/head.jpg",
         "hidden": false
     },
     "profile": {
@@ -45,42 +45,49 @@
                 "2022.06",
                 null
             ],
-            "work_desc": "1. 后端中台开发实习生\r\n2. 根据项目负责人的要求，对中台系统的功能进行开发\r\n3. 按照实施反馈的信息，及时解决正式环境下出现的异常情况"
+            "work_desc": "1. 中台开发实习生(后端)\r\n2. 根据项目负责人的要求，对中台系统的功能进行开发\r\n3. 按照实施反馈的信息，及时解决正式环境下出现的异常情况"
         }
     ],
     "skillList": [
         {
             "skill_name": "Java基础",
             "skill_desc": "",
-            "skill_level": 89
+            "skill_level": 90
         },
         {
-            "skill_name": "Spring Boot、Spring Cloud",
+            "skill_name": "Spring Boot、Spring Cloud框架",
             "skill_desc": "熟悉Spring常用注释和开发模式",
             "skill_level": 90
         },
         {
             "skill_name": "Oracle数据库、Redis，Hibernate、Mybatis",
             "skill_desc": "能够编写相对复杂的SQL语句，知道范式、索引、分区等数据库基本概念",
-            "skill_level": 90
+            "skill_level": 85
         },
         {
             "skill_name": "实际项目经验",
             "skill_desc": "拥有在浙江用友软件有限公司的实习经历，代码编写规范，能够和项目负责人、同事、实施、客户进行友好沟通",
-            "skill_level": 85
+            "skill_level": 93
         }
     ],
     "projectList": [
         {
+            "project_name": "银行存款服务编排系统",
+            "project_role": "后端开发、测试",
+            "project_time": "2021.12 - 2022.04",
+            "project_desc": "通过低代码的形式实现银行存款服务编排系统，中国大学生服务外包创新创业大赛 三等奖",
+            "project_content": "1. 项目从0到1的框架设计和开发 2.  3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+        },
+        {
             "project_name": "华东医药多仓协同开发项目",
             "project_role": "中台开发、测试",
-            "project_time": "2022.07 - 2022.08",
-            "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-            "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+            "project_time": "2021.10 - 至今",
+            "project_desc": "对中西药订单中心完成普通销售、采购协同、跨组织销售业务，把繁杂的销售流程简化操作，提高整体运行效率",
+            "project_content": "1. 项目从0到1的框架设计和开发 2.  3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
         },
         {
             "project_name": "华东医药渠道云开发项目",
-            "project_role": "中台开发者、测试",
+            "project_role": "中台开发、测试",
             "project_time": "2022.06 - 2022.08",
             "project_desc": "实现ERP系统和浙江省“智慧医保”药品招采平台系统数据对接，其中包括基础数据、订单、响应、配送、票据与清单（及发票图片）、支付等接口，实现数据实时交互，并使ERP能够适应新平台相关业务流程的要求",
             "project_content": "1. 增加新来源平台 2. 适配原三流合一功能 3. 货品对码增加字段 4.中台分别与新三流合一平台、NC客户端进行对接"
@@ -88,7 +95,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "沟通协调能力、执行力\n\n对Quartz定时任务框架有着充分认识，对xxl-job也有所了解"
+        "aboutme_desc": "沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n对Quartz定时任务框架有着充分认识，对xxl-job也有所了解"
     },
     "theme": {
         "color": "#2f5785",
