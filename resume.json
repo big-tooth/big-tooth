@@ -9,7 +9,7 @@
         "aboutme": "自我介绍"
     },
     "avatar": {
-        "src": "https://raw.githubusercontent.com/big-tooth/big-tooth/main/head.jpg",
+        "src": "https://raw.githubusercontent.com/big-tooth/big-tooth/main/head3.jpg",
         "hidden": false
     },
     "profile": {
@@ -51,7 +51,7 @@
     "skillList": [
         {
             "skill_name": "Java基础",
-            "skill_desc": "",
+            "skill_desc": "有一定的数据结构知识储备",
             "skill_level": 90
         },
         {
