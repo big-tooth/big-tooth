@@ -40,7 +40,7 @@
     "workExpList": [
         {
             "company_name": "用友软件浙江分公司",
-            "department_name": "高端平台开发中心",
+            "department_name": "高端平台开发中心(Java后端开发)",
             "work_time": [
                 "2022.06",
                 null
@@ -51,17 +51,17 @@
     "skillList": [
         {
             "skill_name": "Java基础和编程能力",
-            "skill_desc": "有一定的数据结构知识储备，多次获得在ACM领域奖项包括团体程序设计天梯赛",
+            "skill_desc": "拥有数据结构方面的知识储备，曾多次在程序设计竞赛中获奖，包括团体程序设计天梯赛、浙江省程序设计竞赛",
             "skill_level": 90
         },
         {
             "skill_name": "Spring Boot、Spring Cloud框架",
-            "skill_desc": "熟悉Spring常用注解和开发模式",
+            "skill_desc": "熟悉Spring常用注解和开发模式，熟练使用SpringCloud+Eureka快速搭建微服务架构体系",
             "skill_level": 90
         },
         {
             "skill_name": "Oracle数据库、Redis，Hibernate、Mybatis",
-            "skill_desc": "能够编写相对复杂的SQL语句，知道范式、索引、分区等数据库基本概念",
+            "skill_desc": "能够编写相对复杂的SQL语句，知道范式、索引、分区等数据库基本概念，并且了解Oracle数据库与Mysql数据库的优化",
             "skill_level": 85
         },
         {
@@ -95,7 +95,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "活跃于Github\n沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n在Quartz定时任务框架、Mybatis、Hibernate框架均有实际使用经验\n熟练使用Linux系统、有过Docker部署经验(https://gitee.com/drophair/docker-sh)"
+        "aboutme_desc": "活跃于Github\n又较强的学习能力，善于学习新知识、实践能力强，拥有较好的沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n在Quartz定时任务框架、Mybatis、Hibernate框架均有实际使用经验\n熟练使用Linux系统、搭建Docker容器(https://gitee.com/drophair/docker-sh)、并将Docker容器部署至Linux上"
     },
     "theme": {
         "color": "#2f5785",
