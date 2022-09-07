@@ -88,14 +88,14 @@
         {
             "project_name": "华东医药渠道云开发项目",
             "project_role": "中台开发",
-            "project_time": "2022.06 - 2022.08",
+            "project_time": "2022.04 - 2022.08",
             "project_desc": "实现ERP系统和浙江省“智慧医保”药品招采平台系统数据对接，其中包括基础数据、订单、响应、配送、票据与清单（及发票图片）、支付等接口，实现数据实时交互，并使ERP能够适应新平台相关业务流程的要求",
             "project_content": "1. 增加新来源平台 2. 适配原三流合一功能 3. 货品对码增加字段 4.中台分别与新三流合一平台、用友NC进行对接"
         }
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "活跃于Github\n又较强的学习能力，善于学习新知识、实践能力强，拥有较好的沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n在Quartz定时任务框架、Mybatis、Hibernate框架均有实际使用经验\n熟练使用Linux系统、搭建Docker容器(https://gitee.com/drophair/docker-sh)、并将Docker容器部署至Linux上"
+        "aboutme_desc": "活跃于Github\n有较强的学习能力，善于学习新知识、实践能力强，拥有较好的沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n在Quartz定时任务框架、Mybatis、Hibernate框架均有实际使用经验\n熟练使用Linux系统、搭建Docker容器(https://gitee.com/drophair/docker-sh)、并将Docker容器部署至Linux上"
     },
     "theme": {
         "color": "#2f5785",
