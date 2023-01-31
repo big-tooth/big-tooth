@@ -26,12 +26,20 @@
                 "2019.09.01",
                 "2023.06.30"
             ],
-            "school": "浙江中医药大学滨江学院",
+            "school": "浙江中医药大学",
             "major": "计算机科学与技术",
             "academic_degree": "本科"
         }
     ],
     "awardList": [
+        {
+            "award_info": "浙江省大学生程序设计大赛 铜奖",
+            "award_time": "2020"
+        },
+        {
+            "award_info": "第45届ICPC国际大学生程序设计竞赛银川站 银奖",
+            "award_time": "2021"
+        }
         {
             "award_info": "英语 CET4",
             "award_time": "2021"
@@ -45,43 +53,48 @@
                 "2022.06",
                 null
             ],
-            "work_desc": "1. 中台开发实习生(后端)\r\n2. 根据项目负责人的要求，对中台系统的功能进行开发\r\n3. 按照实施反馈的信息，及时解决正式环境下出现的异常情况"
+            "work_desc": "1. 业务中台开发实习生(后端)\r\n2. 根据项目负责人的要求，对中台系统的功能进行开发\r\n3. 按照实施反馈的信息，及时解决正式环境下出现的异常情况\r\n"
         }
     ],
     "skillList": [
         {
             "skill_name": "Java基础和编程能力",
-            "skill_desc": "拥有数据结构方面的知识储备，曾多次在程序设计竞赛中获奖，包括团体程序设计天梯赛、浙江省程序设计竞赛",
+            "skill_desc": "拥有较好的数据结构与编程基础，曾多次在程序设计竞赛中获奖，包括团体程序设计天梯赛、浙江省程序设计竞赛",
             "skill_level": 90
         },
         {
-            "skill_name": "Spring Boot、Spring Cloud框架",
-            "skill_desc": "熟悉Spring常用注解和开发模式，熟练使用SpringCloud+Eureka快速搭建微服务架构体系",
+            "skill_name": "Java实际项目开发(实习阶段)",
+            "skill_desc": "熟悉面向对象的设计原则，熟悉Springboot、Mybatis、Spring Security、Quartz等企业级框架。熟悉容器技术docker、compose，熟悉git、jenkins、junit等常规devops技术",
             "skill_level": 90
         },
         {
-            "skill_name": "Oracle数据库、Redis，Hibernate、Mybatis",
-            "skill_desc": "能够编写相对复杂的SQL语句，知道范式、索引、分区等数据库基本概念，并且了解Oracle数据库与Mysql数据库的优化",
+            "skill_name": "前端界面开发",
+            "skill_desc": "熟悉基于NodeJs+Vue2/React的前端开发模式，能够结合第三方组件库开发",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "数据库",
+            "skill_desc": "数据库掌握MySQL、Oracle以及常用的缓存Redis，掌握常用SQL语言，熟悉报表开发流程",
             "skill_level": 85
         },
         {
             "skill_name": "实际项目经验",
-            "skill_desc": "拥有在浙江用友软件有限公司的实习经历，代码编写规范，能够和项目负责人、同事、实施、客户进行友好沟通",
+            "skill_desc": "从2022年6月开始一直在浙江用友软件有限公司进行实习，依次学习并在NC、业务中台、NC Cloud、BIP上进行实际开发与上线工作，高效领悟业务需求、规范编写代码，能够和项目负责人、同事、实施、客户进行友好沟通",
             "skill_level": 93
         }
     ],
     "projectList": [
         {
-            "project_name": "银行存款服务编排系统",
+            "project_name": "银行存款服务编排系统(团队项目)",
             "project_role": "后端开发",
             "project_time": "2021.12 - 2022.04",
             "project_desc": "通过低代码的形式实现银行存款服务编排系统，获得中国大学生服务外包创新创业大赛 三等奖",
-            "project_content": "1. 用户权限管理 2. 充分利用Redis的缓存特性实现多种应用场景的功能，包括订单缓存、存款信息预加载 3. 生成Dockerfile脚本文件，部署到云服务器"
+            "project_content": "1. 用户权限管理 2. 充分利用Redis的缓存特性实现多种应用场景的功能，包括订单缓存(使用到了Redis)、存款信息预加载 3. 生成Dockerfile脚本文件，部署到云服务器"
         },
         {
             "project_name": "华东医药多仓协同开发项目",
             "project_role": "中台开发",
-            "project_time": "2022.06 - 至今",
+            "project_time": "2022.06 - 至今(目前项目已上线，2023年3月验收)",
             "project_desc": "对中西药订单中心完成普通销售、采购协同、跨组织销售业务，把繁杂的销售流程简化操作，提高整体运行效率",
             "project_content": "1. 项目从0到1的框架设计和开发 2. 简化逻辑校验，建立稳定性保障机制，帮助客户在药品配送出库方面提高效率"
         },
@@ -89,13 +102,13 @@
             "project_name": "华东医药渠道云开发项目",
             "project_role": "中台开发",
             "project_time": "2022.06 - 2022.08",
-            "project_desc": "实现ERP系统和浙江省“智慧医保”药品招采平台系统数据对接，其中包括基础数据、订单、响应、配送、票据与清单（及发票图片）、支付等接口，实现数据实时交互，并使ERP能够适应新平台相关业务流程的要求",
+            "project_desc": "通过构建业务中台实现用友ERP NC65系统和浙江省“智慧医保”药品招采平台系统数据对接，其中包括基础数据、订单、响应、配送、票据与清单（及发票图片）、支付等接口，实现数据实时交互，并使ERP能够适应新平台相关业务流程的要求",
             "project_content": "1. 增加新来源平台 2. 适配原三流合一功能 3. 货品对码增加字段 4.中台分别与浙江省“智慧医保”药品招采平台系统、用友NC进行对接"
         }
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "活跃于Github\n有较强的学习能力，善于学习新知识、实践能力强，拥有较好的沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven，Git、SVN代码提交工具，代码断点DeBug\n在Quartz定时任务框架、Mybatis、Hibernate框架均有实际使用经验\n熟练使用Linux系统、搭建Docker容器(https://gitee.com/drophair/docker-sh)、并将Docker容器部署至Linux上"
+        "aboutme_desc": "在闲余期间经常活跃于Github，学习主流技术和框架，多次提交被Pull Request\n有较强的学习能力，善于学习新知识、实践能力强，拥有较好的沟通协调能力、执行力\n熟练使用Postman接口测试工具，Maven、Webpack，代码断点DeBug\n熟悉应用服务器Tomcat，熟悉Nginx代理\n熟练使用Linux系统、搭建Docker容器(https://gitee.com/drophair/docker-sh)、并将Docker容器部署至Linux上"
     },
     "theme": {
         "color": "#2f5785",
