@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 《摸鱼学导论》.
 - 🤔 I’m looking for help with find nice offer.  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=big-tooth&show_icons=true&theme=cobalt" alt="Drophair's github stats" /></a>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=big-tooth)](https://github.com/stats-organization/github-stats-extended)
